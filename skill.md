@@ -71,3 +71,4 @@ description: Use when writing, designing, repairing, hosting, or reviewing a 海
 | `07-output-templates.md` | TXT 与 JSON 模板 |
 | `appendix/e-repair-diagnosis.md` | 修缮/重熬与最小复跑矩阵 |
 | `appendix/f-hidden-variable-types.md` | 隐藏变量五类+独立证据族+三层测试+失败模式 |
+| `appendix/g-invisible-walls.md` | 空气墙——推理引导与屏障设计（自然壁/引导栅/远景带/回弹壁） |
