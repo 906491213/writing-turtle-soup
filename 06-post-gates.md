@@ -10,6 +10,8 @@
 
 **失败后不是立刻补句子。** 先打开 [appendix/e-repair-diagnosis.md](appendix/e-repair-diagnosis.md)，判断问题是修复还是回炉；再按”语义影响”重跑最小验证集。
 
+**逐项执行时可参考 `appendix/c-checklist-quick.md` 速查表辅助勾选**，但速查表不能替代完整核验——每一项仍需输出具体事实依据，不能只打勾。
+
 ---
 
 ## 闸门总览

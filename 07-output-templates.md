@@ -4,6 +4,8 @@
 
 **级别**：主线——所有汤必用（至少TXT主持人手册模板）。
 
+**关联模块**：模板化来源 → `00-delegation-card.md`（委托卡）、`01-embryo-gate.md`（立项卡）、`02-solution-chain-card.md`（解题链卡）、`06-post-gates.md`（复验报告）、`appendix/e-repair-diagnosis.md`（修复单/回炉单）；主持手册模板 → 填完后对照 `05-hosting.md` 验证主持流程可行性。
+
 ---
 
 ## 一、主持人手册 TXT（成品汤·根目录）
