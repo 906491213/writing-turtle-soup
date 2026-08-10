@@ -4,7 +4,7 @@
 
 **级别**：主线——所有汤必读。状态型追加04-stateful-tag中的主持人规则。
 
-**关联文档**：本手册依据的立项卡版本号______，复验报告版本号______。主持前确认版本一致。
+**关联模块**：状态型追加规则 → `04-stateful-tag.md`；局后修缮 → `appendix/e-repair-diagnosis.md`；输出模板 → `07-output-templates.md`（主持人手册TXT）。
 
 ---
 

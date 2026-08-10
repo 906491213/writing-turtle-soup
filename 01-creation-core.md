@@ -4,6 +4,8 @@
 
 **级别**：主线——所有汤必读。
 
+**关联模块**：上游 → `01-embryo-gate.md`（胚资格）+ `00-delegation-card.md`（施工规格）；下游 → `02-solution-chain-card.md`（解题链）+ `06-post-gates.md`（复验）；按需追加 → `04-stateful-tag.md`（状态型）、`appendix/b-anomaly-boundary.md`（变格汤·第零步）、`appendix/g-invisible-walls.md`（空气墙·第二步）、`appendix/f-hidden-variable-types.md`（变量足迹·第二步乙）。
+
 ---
 
 ## 核心原理：统一情境 + 载体专属组合
