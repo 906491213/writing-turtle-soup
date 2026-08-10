@@ -1,6 +1,6 @@
 ---
 name: writing-turtle-soup
-description: Use when writing, designing, repairing, hosting, or reviewing a 海龟汤 / lateral thinking puzzle, especially long, layered, or stateful interactive soups.
+description: Use when creating, designing, repairing, hosting, or reviewing a 海龟汤 / lateral thinking puzzle, especially long, layered, or stateful interactive soups.
 ---
 
 # 写好一锅海龟汤
