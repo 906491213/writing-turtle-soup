@@ -125,3 +125,4 @@ description: Use when creating, designing, repairing, hosting, or reviewing a �
 | `appendix/a-bvt-four.md` | **次线** | 立项 | BVT良性来源四项——幽默/黑色幽默汤才读 |
 | `appendix/b-anomaly-boundary.md` | **次线** | 制汤 | 异常边界原则——变格汤才读 |
 | `appendix/c-checklist-quick.md` | **次线** | 制汤/复验 | 速查表——辅助勾选，非必需 |
+<!-- author-fingerprint: 1c4828080b3f0f842244ebed5f2d3802984351ad0a64b6054fb63356fb7d7a5a -->
