@@ -1,0 +1,22 @@
+{
+  "name": "writing-turtle-soup",
+  "description": "A complete methodology for crafting 海龟汤 / turtle soup / lateral thinking puzzles — a four-phase, gate-driven pipeline from embryo to finished puzzle (design, verify, repair, host).",
+  "version": "1.0.0",
+  "author": {
+    "name": "906491213",
+    "url": "https://github.com/906491213"
+  },
+  "license": "CC-BY-NC-4.0",
+  "homepage": "https://github.com/906491213/writing-turtle-soup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/906491213/writing-turtle-soup.git"
+  },
+  "skills": [
+    {
+      "name": "writing-turtle-soup",
+      "description": "Use when creating, designing, repairing, hosting, or reviewing a 海龟汤 / lateral thinking puzzle, especially long, layered, or stateful interactive soups.",
+      "entry": "SKILL.md"
+    }
+  ]
+}

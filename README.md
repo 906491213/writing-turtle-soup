@@ -1,5 +1,7 @@
 # 海龟汤创作方法论
 
+> **English version: [README.en.md](README.en.md)**
+
 一套完整的海龟汤（情境猜谜 / lateral thinking puzzle）**创作框架**——从灵感到成品，每一步都有闸门。
 
 ## 许可

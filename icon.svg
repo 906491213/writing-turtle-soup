@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="24" fill="#1a1a2e"/>
+  <!-- soup bowl -->
+  <path d="M30 74 Q30 54 44 48 L44 40 Q38 38 34 32 L36 28 Q44 34 52 34 L76 34 Q84 34 92 28 L94 32 Q90 38 84 40 L84 48 Q98 54 98 74 Z" fill="#e8a75d"/>
+  <path d="M30 74 Q30 82 38 84 L38 96 Q38 102 44 102 L84 102 Q90 102 90 96 L90 84 Q98 82 98 74 Z" fill="#d98e3f"/>
+  <!-- soup surface / steam -->
+  <path d="M40 44 Q52 40 64 44 Q76 48 88 44" stroke="#f5e6c8" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M52 30 Q56 22 60 30 Q64 22 68 30" stroke="#e8e8f0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M70 26 Q74 18 78 26 Q82 18 86 26" stroke="#e8e8f0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- spoon -->
+  <path d="M96 30 Q104 22 110 28 Q104 36 96 30 Z" fill="#c0c0d8"/>
+  <path d="M98 34 L106 44" stroke="#c0c0d8" stroke-width="3" stroke-linecap="round"/>
+</svg>
