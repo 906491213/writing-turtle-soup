@@ -58,12 +58,14 @@
 
 【递进结构】
 第1拍 ─ 答案：______
+       类型：[猜/推]
        解锁后新方向（≥2）：______
-       关键承重事实：______（锚点来源/触发源：______）
+       关键承重事实：______（锚点来源/触发源：______ / 回报：______）
        进入下一拍的最小确认集合：______
 第2拍 ─ 答案：______
+       类型：[猜/推]
        解锁后新方向：______
-       关键承重事实：______（锚点来源/触发源：______）
+       关键承重事实：______（锚点来源/触发源：______ / 回报：______）
        进入下一拍的最小确认集合：______
        ...
 
@@ -173,18 +175,20 @@ v2（如有）：______ → ______
     "beats": [
       {
         "beat_number": 1,
+        "inference_type": "猜/推",
         "answer": "",
         "new_directions": [],
         "minimum_confirmation_set": [],
         "load_bearing_facts": [
-          {"fact": "", "anchor_source": "", "trigger_source": ""}
+          {"fact": "", "anchor_source": "", "trigger_source": "", "return": ""}
         ],
         "relay_mode": ""
       }
     ],
     "reachability_audit": {},
     "navigability_audit": {},
-    "verifiability_audit": {}
+    "verifiability_audit": {},
+    "deducibility_audit": {}
   },
   "state_protocol": {
     "states": [],
